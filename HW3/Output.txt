@@ -1,0 +1,36 @@
+ATMColdwell-HW3
+run:
+Testing Account class...
+Insufficientfund!!!
+Testing ATM...
+The balance is: 100.0
+The balance is: 97.0
+The balance is: 107.0
+Testing Extra Accounts...
+Id: 1123 Date Created: Fri Mar 03 01:21:30 EST 2017 Balance: $20,000.00 Montly Interest Rate: 0.46%
+Id: 1124 Date Created: Fri Mar 03 01:21:30 EST 2017 Balance: $200.00 Montly Interest Rate: 0.42%
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+TwoDShapesColdwell-HW3
+run:
+[Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 31.11, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 29.11, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 28.48, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false NaN, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 2.33, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 0.00, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 47.78, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 12.57, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 21.24]
+
+[Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 0.00, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 2.33, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 12.57, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 21.24, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 28.48, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 29.11, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 31.11, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false NaN, Created on Fri Mar 03 01:22:24 EST 2017
+Color and filled: false 47.78]

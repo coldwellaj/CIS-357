@@ -1,0 +1,97 @@
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)1
+Fixed Array 1
+Consecutive four: Found ([5,0] - [5,3])
+0 1 0 3 1 6 1 
+0 1 6 8 6 0 1 
+5 6 2 1 8 2 9 
+6 5 6 1 1 9 1 
+1 3 6 1 4 0 7 
+3 3 3 3 4 0 7 
+Minimum Sum: 12
+
+Fixed Array 3
+Consecutive four: Found ([2,4] - [5,1])
+0 1 0 3 1 6 1 
+0 1 6 8 6 0 1 
+5 6 2 1 8 2 9 
+6 5 6 1 1 9 1 
+1 3 6 1 4 0 7 
+3 3 3 3 4 0 7 
+Minimum Sum: 24
+
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)2
+Enter row and column (5 - 10): 8 9
+Enter consecutive number (3, 4, 5): 4
+Consecutive 4: Not Found 
+6 1 1 6 8 4 5 1 1 
+1 7 7 1 0 0 7 2 3 
+6 5 2 8 4 8 5 8 7 
+8 3 8 7 4 3 4 5 6 
+0 6 0 8 1 5 7 6 0 
+3 3 3 1 5 1 6 8 3 
+3 1 2 7 2 5 0 7 7 
+6 7 3 2 1 5 2 1 4 
+
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)2
+Enter row and column (5 - 10): 9
+9
+Enter consecutive number (3, 4, 5): 3
+Consecutive 3: Found ([3,8] - [5,6])
+6 1 1 6 8 4 5 1 1 
+1 7 7 1 0 0 7 2 3 
+6 5 2 8 4 8 5 8 7 
+8 3 8 7 4 3 4 5 6 
+0 6 0 8 1 5 7 6 0 
+3 3 3 1 5 1 6 8 3 
+3 1 2 7 2 5 0 7 7 
+6 7 3 2 1 5 2 1 4 
+1 4 0 0 6 4 0 8 2 
+Minimum Sum: 18
+
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)2
+Enter row and column (5 - 10): 10 10
+Enter consecutive number (3, 4, 5): 5
+Consecutive 5: Not Found 
+6 1 1 6 8 4 5 1 1 1 
+7 7 1 0 0 7 2 3 6 5 
+2 8 4 8 5 8 7 8 3 8 
+7 4 3 4 5 6 0 6 0 8 
+1 5 7 6 0 3 3 3 1 5 
+1 6 8 3 3 1 2 7 2 5 
+0 7 7 6 7 3 2 1 5 2 
+1 4 1 4 0 0 6 4 0 8 
+2 0 8 3 3 2 2 2 4 0 
+0 6 2 1 8 8 7 1 8 6 
+
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)3
+Wrong input try again
+
+> java homework2 - Coldwell
+Enter a choice: (1 for fixed value, 2 for random values)2
+Enter row and column (5 - 10): 4
+4
+Enter row and column (5 - 10): 4
+5
+Enter row and column (5 - 10): 5
+4
+Enter row and column (5 - 10): 5
+11
+Enter row and column (5 - 10): 11
+5
+Enter row and column (5 - 10): 5
+5
+Enter consecutive number (3, 4, 5): 2
+Enter consecutive number (3, 4, 5): 6
+Enter consecutive number (3, 4, 5): 5
+Consecutive 5: Not Found 
+6 1 1 6 8 
+4 5 1 1 1 
+7 7 1 0 0 
+7 2 3 6 5 
+2 8 4 8 5
+
