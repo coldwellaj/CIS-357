@@ -150,6 +150,7 @@ void print_avg(const StudData students[], int num)
 /* char get_grade(double grade)                             */
 /*  This takes a double grade and returns a char letter     */
 /*  grade.                                                  */
+/* Returns: char grade                                      */
 /************************************************************/
 /* parameters:                                              */
 /* -grade: double to pass the grade. Used to find the       */
