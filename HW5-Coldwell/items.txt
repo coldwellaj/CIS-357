@@ -1,0 +1,10 @@
+A Flashdrive 10
+B Mouse 20
+C Printer 100
+D Pens 9
+E Keyboard 50
+F Pencils 3
+G Laptop 200
+H Desktop 250
+I Ink 35
+J Monitor 99

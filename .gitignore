@@ -250,3 +250,6 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/HW5-Coldwell/nbproject/private/
+/HW5-Coldwell/build/
+/HW5-Coldwell/dist/
